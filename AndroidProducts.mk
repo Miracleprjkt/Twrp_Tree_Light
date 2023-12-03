@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_Infinix-X688B.mk
+    $(LOCAL_DIR)/twrp_Light.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_Infinix-X688B-user \
-    omni_Infinix-X688B-userdebug \
-    omni_Infinix-X688B-eng
+    twrp_Light-user \
+    twrp_Light-userdebug \
+    twrp_Light-eng
