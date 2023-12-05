@@ -15,7 +15,7 @@
 # limitations under the License.
 #
 
-DEVICE_PATH := device/infinix/Light
+DEVICE_PATH := device/infinix/X688B
 
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true
@@ -68,7 +68,7 @@ BOARD_MKBOOTIMG_ARGS += --dtb_offset $(BOARD_DTB_OFFSET)
 BOARD_FLASH_BLOCK_SIZE := 131072
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := X688B,Light
+TARGET_OTA_ASSERT_DEVICE := X688B
 
 # File systems
 BOARD_HAS_LARGE_FILESYSTEM := true
