@@ -26,7 +26,7 @@ on:
       COMMON_TREE_URL:
         description: 'COMMON_TREE_URL (if no common tree, leave blank)'
         required: true
-        default: 'https://github.com/Miracleprjkt/Twrp_Tree_X688B'
+        default: 'https://github.com/Miracleprjkt/Twrp_Tree_Light'
       COMMON_PATH:
         description: 'COMMON_PATH (if no common tree, leave blank)'
         required: true
