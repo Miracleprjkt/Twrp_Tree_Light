@@ -22,23 +22,23 @@ on:
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
-        default: 'device/infinix/Light'
+        default: 'device/infinix/X688B'
       COMMON_TREE_URL:
         description: 'COMMON_TREE_URL (if no common tree, leave blank)'
         required: true
-        default: 'https://github.com/Miracleprjkt/Twrp_Tree_Light'
+        default: 'https://github.com/Miracleprjkt/Twrp_Tree_X688B'
       COMMON_PATH:
         description: 'COMMON_PATH (if no common tree, leave blank)'
         required: true
-        default: 'Twrp/Tree/Light'
+        default: 'Twrp/Tree/X688B'
       DEVICE_NAME:
         description: 'DEVICE_NAME'
         required: true
-        default: 'Light'
+        default: 'X688B'
       MAKEFILE_NAME:
         description: 'MAKEFILE_NAME'
         required: true
-        default: 'twrp_Light'
+        default: 'twrp_X688B'
       BUILD_TARGET:
         description: 'BUILD_TARGET'
         required: true
